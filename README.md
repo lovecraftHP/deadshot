@@ -1,5 +1,5 @@
 # deadshot
-webcrawler (espero algun dia se convierta en araña)
+webcrawler (espero algun dia se convierta en una araña)
 
 #  REQUISITOS
 para que corra de forma correcta es necesario de que se tenga instalado lo siguiente:
@@ -8,3 +8,4 @@ para que corra de forma correcta es necesario de que se tenga instalado lo sigui
 * Modulo Mechanize
 * Modulo Socks(SocksiPy)
 * Modulo BeautifulSoup
+* Modulo Requests
