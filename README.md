@@ -9,3 +9,6 @@ para que corra de forma correcta es necesario de que se tenga instalado lo sigui
 * Modulo Socks(SocksiPy)
 * Modulo BeautifulSoup
 * Modulo Requests
+
+# Links
+* SocksiPy (https://sourceforge.net/projects/socksipy/)
