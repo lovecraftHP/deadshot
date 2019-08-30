@@ -1,5 +1,5 @@
 # deadshot
-webcrawler (futura implementacion: spider)
+webcrawler (futura implementacion:spider)
 hay que tener en cuenta que a esta fecha (18/12/2017) no esta terminado este script, por lo que contiene varios errores que se empezaran a corregir. Esta No Es Una Version Final!.
 
 #  REQUISITOS
